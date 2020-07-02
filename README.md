@@ -1,5 +1,7 @@
 # 지하철 노선도 즐겨찾기 미션 [![Build Status](https://travis-ci.org/sonypark/mirror-atdd-subway-favorite.svg?branch=master)](https://travis-ci.org/sonypark/mirror-atdd-subway-favorite)
 
+![](https://images.velog.io/images/sonypark/post/4d5d08a4-e3d3-4f07-984e-45bacca56407/image.png)
+
 ## 1단계 - 회원관리 기능
 
 ### 기능 목록
