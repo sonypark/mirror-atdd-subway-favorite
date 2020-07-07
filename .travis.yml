@@ -19,3 +19,6 @@ notifications:
   email:
     recipients:
       - sonypark0204@gmail.com
+
+after_success:
+  - ./gradlew jacocoTestReport coveralls
